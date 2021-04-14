@@ -1,0 +1,57 @@
+body {
+    padding: 0;
+    margin: 0;
+    border: 2px solid black;
+    margin:auto;
+    width: 70%;
+    height: 70%;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+header {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+h4 {
+    text-align: center;
+}
+section {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    
+}
+p {
+    text-align: center;
+    line-height: 1.5em;
+}
+.bio-data, section {
+    text-align: center;
+    line-height: 1.5em;
+    padding-bottom: 0;
+    padding-left: 30px;
+
+    
+}
+#Educataion {
+    text-align: left;
+    font-size: 40px;
+}
+ul {
+    font-size: 40px;
+    text-align: center; 
+    padding-bottom: 0;
+    text-decoration: underline;
+}
+ul, li {
+    text-align: center;
+    padding-bottom: 20px;
+}
